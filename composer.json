@@ -1,0 +1,11 @@
+{
+	"authors":      [{ "email": "baptiste@pillot.fr", "name": "Baptiste Pillot" }],
+	"description":  "www.pillot.fr",
+	"license":      "MIT",
+	"name":         "baptistepillot/homepage",
+	"repositories": [{ "type": "composer", "url": "https://packages.bappli.com" }],
+	"require": {
+		"php":          "7.3.*",
+		"symfony/yaml": "4.1.*"
+	}
+}
